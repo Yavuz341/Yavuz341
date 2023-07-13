@@ -8,7 +8,7 @@
 ## Profile 
 
 ###
-I am an graduated from Computer Engineering Departmant at Atatürk University. I am interested in the Mobile Programming.
+I am graduated from Computer Engineering Departmant at Atatürk University. I am interested in the Mobile Programming.
 
 ![](https://komarev.com/ghpvc/?username=Yavuz341&color=green)
 
